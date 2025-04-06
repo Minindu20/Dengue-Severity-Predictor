@@ -1,0 +1,500 @@
+Kernel: rbf, C: 0.1, Gamma: 0.001, Epsilon: 0.01, RMSE: 151.5477
+Kernel: linear, C: 0.1, Gamma: 0.001, Epsilon: 0.01, RMSE: 59.1946
+Kernel: poly, C: 0.1, Gamma: 0.001, Epsilon: 0.01, Degree: 2, RMSE: 151.8578
+Kernel: poly, C: 0.1, Gamma: 0.001, Epsilon: 0.01, Degree: 3, RMSE: 151.8566
+Kernel: poly, C: 0.1, Gamma: 0.001, Epsilon: 0.01, Degree: 4, RMSE: 151.8566
+Kernel: rbf, C: 0.1, Gamma: 0.001, Epsilon: 0.05, RMSE: 739.1246
+Kernel: linear, C: 0.1, Gamma: 0.001, Epsilon: 0.05, RMSE: 431.4480
+Kernel: poly, C: 0.1, Gamma: 0.001, Epsilon: 0.05, Degree: 2, RMSE: 739.5469
+Kernel: poly, C: 0.1, Gamma: 0.001, Epsilon: 0.05, Degree: 3, RMSE: 739.5462
+Kernel: poly, C: 0.1, Gamma: 0.001, Epsilon: 0.05, Degree: 4, RMSE: 739.5462
+Kernel: rbf, C: 0.1, Gamma: 0.001, Epsilon: 0.1, RMSE: 1474.5299
+Kernel: linear, C: 0.1, Gamma: 0.001, Epsilon: 0.1, RMSE: 1138.2772
+Kernel: poly, C: 0.1, Gamma: 0.001, Epsilon: 0.1, Degree: 2, RMSE: 1474.8615
+Kernel: poly, C: 0.1, Gamma: 0.001, Epsilon: 0.1, Degree: 3, RMSE: 1474.8652
+Kernel: poly, C: 0.1, Gamma: 0.001, Epsilon: 0.1, Degree: 4, RMSE: 1474.8652
+Kernel: rbf, C: 0.1, Gamma: 0.001, Epsilon: 0.2, RMSE: 2944.7241
+Kernel: linear, C: 0.1, Gamma: 0.001, Epsilon: 0.2, RMSE: 2738.8298
+Kernel: poly, C: 0.1, Gamma: 0.001, Epsilon: 0.2, Degree: 2, RMSE: 2945.1245
+Kernel: poly, C: 0.1, Gamma: 0.001, Epsilon: 0.2, Degree: 3, RMSE: 2945.1246
+Kernel: poly, C: 0.1, Gamma: 0.001, Epsilon: 0.2, Degree: 4, RMSE: 2944.6246
+Kernel: rbf, C: 0.1, Gamma: 0.001, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: linear, C: 0.1, Gamma: 0.001, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: poly, C: 0.1, Gamma: 0.001, Epsilon: 0.5, Degree: 2, RMSE: 7351.0002
+Kernel: poly, C: 0.1, Gamma: 0.001, Epsilon: 0.5, Degree: 3, RMSE: 7351.0002
+Kernel: poly, C: 0.1, Gamma: 0.001, Epsilon: 0.5, Degree: 4, RMSE: 7351.0002
+Kernel: rbf, C: 0.1, Gamma: 0.01, Epsilon: 0.01, RMSE: 141.6353
+Kernel: linear, C: 0.1, Gamma: 0.01, Epsilon: 0.01, RMSE: 59.1946
+Kernel: poly, C: 0.1, Gamma: 0.01, Epsilon: 0.01, Degree: 2, RMSE: 151.8569
+Kernel: poly, C: 0.1, Gamma: 0.01, Epsilon: 0.01, Degree: 3, RMSE: 151.8578
+Kernel: poly, C: 0.1, Gamma: 0.01, Epsilon: 0.01, Degree: 4, RMSE: 151.8566
+Kernel: rbf, C: 0.1, Gamma: 0.01, Epsilon: 0.05, RMSE: 730.2849
+Kernel: linear, C: 0.1, Gamma: 0.01, Epsilon: 0.05, RMSE: 431.4480
+Kernel: poly, C: 0.1, Gamma: 0.01, Epsilon: 0.05, Degree: 2, RMSE: 739.7822
+Kernel: poly, C: 0.1, Gamma: 0.01, Epsilon: 0.05, Degree: 3, RMSE: 739.5469
+Kernel: poly, C: 0.1, Gamma: 0.01, Epsilon: 0.05, Degree: 4, RMSE: 739.5462
+Kernel: rbf, C: 0.1, Gamma: 0.01, Epsilon: 0.1, RMSE: 1467.2983
+Kernel: linear, C: 0.1, Gamma: 0.01, Epsilon: 0.1, RMSE: 1138.2772
+Kernel: poly, C: 0.1, Gamma: 0.01, Epsilon: 0.1, Degree: 2, RMSE: 1474.4920
+Kernel: poly, C: 0.1, Gamma: 0.01, Epsilon: 0.1, Degree: 3, RMSE: 1474.8615
+Kernel: poly, C: 0.1, Gamma: 0.01, Epsilon: 0.1, Degree: 4, RMSE: 1474.8652
+Kernel: rbf, C: 0.1, Gamma: 0.01, Epsilon: 0.2, RMSE: 2944.1117
+Kernel: linear, C: 0.1, Gamma: 0.01, Epsilon: 0.2, RMSE: 2738.8298
+Kernel: poly, C: 0.1, Gamma: 0.01, Epsilon: 0.2, Degree: 2, RMSE: 2945.1142
+Kernel: poly, C: 0.1, Gamma: 0.01, Epsilon: 0.2, Degree: 3, RMSE: 2945.1245
+Kernel: poly, C: 0.1, Gamma: 0.01, Epsilon: 0.2, Degree: 4, RMSE: 2944.6246
+Kernel: rbf, C: 0.1, Gamma: 0.01, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: linear, C: 0.1, Gamma: 0.01, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: poly, C: 0.1, Gamma: 0.01, Epsilon: 0.5, Degree: 2, RMSE: 7351.0002
+Kernel: poly, C: 0.1, Gamma: 0.01, Epsilon: 0.5, Degree: 3, RMSE: 7351.0002
+Kernel: poly, C: 0.1, Gamma: 0.01, Epsilon: 0.5, Degree: 4, RMSE: 7351.0002
+Kernel: rbf, C: 0.1, Gamma: 0.1, Epsilon: 0.01, RMSE: 125.9921
+Kernel: linear, C: 0.1, Gamma: 0.1, Epsilon: 0.01, RMSE: 59.1946
+Kernel: poly, C: 0.1, Gamma: 0.1, Epsilon: 0.01, Degree: 2, RMSE: 152.5565
+Kernel: poly, C: 0.1, Gamma: 0.1, Epsilon: 0.01, Degree: 3, RMSE: 152.0027
+Kernel: poly, C: 0.1, Gamma: 0.1, Epsilon: 0.01, Degree: 4, RMSE: 151.8542
+Kernel: rbf, C: 0.1, Gamma: 0.1, Epsilon: 0.05, RMSE: 717.7446
+Kernel: linear, C: 0.1, Gamma: 0.1, Epsilon: 0.05, RMSE: 431.4480
+Kernel: poly, C: 0.1, Gamma: 0.1, Epsilon: 0.05, Degree: 2, RMSE: 741.7689
+Kernel: poly, C: 0.1, Gamma: 0.1, Epsilon: 0.05, Degree: 3, RMSE: 739.7539
+Kernel: poly, C: 0.1, Gamma: 0.1, Epsilon: 0.05, Degree: 4, RMSE: 739.7727
+Kernel: rbf, C: 0.1, Gamma: 0.1, Epsilon: 0.1, RMSE: 1455.4158
+Kernel: linear, C: 0.1, Gamma: 0.1, Epsilon: 0.1, RMSE: 1138.2772
+Kernel: poly, C: 0.1, Gamma: 0.1, Epsilon: 0.1, Degree: 2, RMSE: 1475.5449
+Kernel: poly, C: 0.1, Gamma: 0.1, Epsilon: 0.1, Degree: 3, RMSE: 1474.3024
+Kernel: poly, C: 0.1, Gamma: 0.1, Epsilon: 0.1, Degree: 4, RMSE: 1474.4878
+Kernel: rbf, C: 0.1, Gamma: 0.1, Epsilon: 0.2, RMSE: 2934.5022
+Kernel: linear, C: 0.1, Gamma: 0.1, Epsilon: 0.2, RMSE: 2738.8298
+Kernel: poly, C: 0.1, Gamma: 0.1, Epsilon: 0.2, Degree: 2, RMSE: 2944.1274
+Kernel: poly, C: 0.1, Gamma: 0.1, Epsilon: 0.2, Degree: 3, RMSE: 2944.4967
+Kernel: poly, C: 0.1, Gamma: 0.1, Epsilon: 0.2, Degree: 4, RMSE: 2944.5340
+Kernel: rbf, C: 0.1, Gamma: 0.1, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: linear, C: 0.1, Gamma: 0.1, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: poly, C: 0.1, Gamma: 0.1, Epsilon: 0.5, Degree: 2, RMSE: 7351.0002
+Kernel: poly, C: 0.1, Gamma: 0.1, Epsilon: 0.5, Degree: 3, RMSE: 7351.0002
+Kernel: poly, C: 0.1, Gamma: 0.1, Epsilon: 0.5, Degree: 4, RMSE: 7351.0002
+Kernel: rbf, C: 0.1, Gamma: 0.5, Epsilon: 0.01, RMSE: 133.4229
+Kernel: linear, C: 0.1, Gamma: 0.5, Epsilon: 0.01, RMSE: 59.1946
+Kernel: poly, C: 0.1, Gamma: 0.5, Epsilon: 0.01, Degree: 2, RMSE: 143.6002
+Kernel: poly, C: 0.1, Gamma: 0.5, Epsilon: 0.01, Degree: 3, RMSE: 146.5369
+Kernel: poly, C: 0.1, Gamma: 0.5, Epsilon: 0.01, Degree: 4, RMSE: 147.3958
+Kernel: rbf, C: 0.1, Gamma: 0.5, Epsilon: 0.05, RMSE: 728.8727
+Kernel: linear, C: 0.1, Gamma: 0.5, Epsilon: 0.05, RMSE: 431.4480
+Kernel: poly, C: 0.1, Gamma: 0.5, Epsilon: 0.05, Degree: 2, RMSE: 735.7786
+Kernel: poly, C: 0.1, Gamma: 0.5, Epsilon: 0.05, Degree: 3, RMSE: 739.1353
+Kernel: poly, C: 0.1, Gamma: 0.5, Epsilon: 0.05, Degree: 4, RMSE: 736.6609
+Kernel: rbf, C: 0.1, Gamma: 0.5, Epsilon: 0.1, RMSE: 1465.8265
+Kernel: linear, C: 0.1, Gamma: 0.5, Epsilon: 0.1, RMSE: 1138.2772
+Kernel: poly, C: 0.1, Gamma: 0.5, Epsilon: 0.1, Degree: 2, RMSE: 1473.2093
+Kernel: poly, C: 0.1, Gamma: 0.5, Epsilon: 0.1, Degree: 3, RMSE: 1474.3638
+Kernel: poly, C: 0.1, Gamma: 0.5, Epsilon: 0.1, Degree: 4, RMSE: 1474.1335
+Kernel: rbf, C: 0.1, Gamma: 0.5, Epsilon: 0.2, RMSE: 2937.6683
+Kernel: linear, C: 0.1, Gamma: 0.5, Epsilon: 0.2, RMSE: 2738.8298
+Kernel: poly, C: 0.1, Gamma: 0.5, Epsilon: 0.2, Degree: 2, RMSE: 2942.8994
+Kernel: poly, C: 0.1, Gamma: 0.5, Epsilon: 0.2, Degree: 3, RMSE: 2943.9936
+Kernel: poly, C: 0.1, Gamma: 0.5, Epsilon: 0.2, Degree: 4, RMSE: 2939.9031
+Kernel: rbf, C: 0.1, Gamma: 0.5, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: linear, C: 0.1, Gamma: 0.5, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: poly, C: 0.1, Gamma: 0.5, Epsilon: 0.5, Degree: 2, RMSE: 7351.0002
+Kernel: poly, C: 0.1, Gamma: 0.5, Epsilon: 0.5, Degree: 3, RMSE: 7351.0002
+Kernel: poly, C: 0.1, Gamma: 0.5, Epsilon: 0.5, Degree: 4, RMSE: 7351.0002
+Kernel: rbf, C: 0.1, Gamma: 1, Epsilon: 0.01, RMSE: 138.3085
+Kernel: linear, C: 0.1, Gamma: 1, Epsilon: 0.01, RMSE: 59.1946
+Kernel: poly, C: 0.1, Gamma: 1, Epsilon: 0.01, Degree: 2, RMSE: 138.5966
+Kernel: poly, C: 0.1, Gamma: 1, Epsilon: 0.01, Degree: 3, RMSE: 141.1103
+Kernel: poly, C: 0.1, Gamma: 1, Epsilon: 0.01, Degree: 4, RMSE: 141.3567
+Kernel: rbf, C: 0.1, Gamma: 1, Epsilon: 0.05, RMSE: 731.5580
+Kernel: linear, C: 0.1, Gamma: 1, Epsilon: 0.05, RMSE: 431.4480
+Kernel: poly, C: 0.1, Gamma: 1, Epsilon: 0.05, Degree: 2, RMSE: 720.0870
+Kernel: poly, C: 0.1, Gamma: 1, Epsilon: 0.05, Degree: 3, RMSE: 726.0591
+Kernel: poly, C: 0.1, Gamma: 1, Epsilon: 0.05, Degree: 4, RMSE: 722.4449
+Kernel: rbf, C: 0.1, Gamma: 1, Epsilon: 0.1, RMSE: 1467.5678
+Kernel: linear, C: 0.1, Gamma: 1, Epsilon: 0.1, RMSE: 1138.2772
+Kernel: poly, C: 0.1, Gamma: 1, Epsilon: 0.1, Degree: 2, RMSE: 1426.6499
+Kernel: poly, C: 0.1, Gamma: 1, Epsilon: 0.1, Degree: 3, RMSE: 1398.2038
+Kernel: poly, C: 0.1, Gamma: 1, Epsilon: 0.1, Degree: 4, RMSE: 1446.5032
+Kernel: rbf, C: 0.1, Gamma: 1, Epsilon: 0.2, RMSE: 2938.5854
+Kernel: linear, C: 0.1, Gamma: 1, Epsilon: 0.2, RMSE: 2738.8298
+Kernel: poly, C: 0.1, Gamma: 1, Epsilon: 0.2, Degree: 2, RMSE: 2934.9336
+Kernel: poly, C: 0.1, Gamma: 1, Epsilon: 0.2, Degree: 3, RMSE: 2942.2985
+Kernel: poly, C: 0.1, Gamma: 1, Epsilon: 0.2, Degree: 4, RMSE: 2941.6392
+Kernel: rbf, C: 0.1, Gamma: 1, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: linear, C: 0.1, Gamma: 1, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: poly, C: 0.1, Gamma: 1, Epsilon: 0.5, Degree: 2, RMSE: 7351.0002
+Kernel: poly, C: 0.1, Gamma: 1, Epsilon: 0.5, Degree: 3, RMSE: 7351.0002
+Kernel: poly, C: 0.1, Gamma: 1, Epsilon: 0.5, Degree: 4, RMSE: 7351.0002
+Kernel: rbf, C: 1, Gamma: 0.001, Epsilon: 0.01, RMSE: 140.4083
+Kernel: linear, C: 1, Gamma: 0.001, Epsilon: 0.01, RMSE: 32.0941
+Kernel: poly, C: 1, Gamma: 0.001, Epsilon: 0.01, Degree: 2, RMSE: 152.1318
+Kernel: poly, C: 1, Gamma: 0.001, Epsilon: 0.01, Degree: 3, RMSE: 151.8566
+Kernel: poly, C: 1, Gamma: 0.001, Epsilon: 0.01, Degree: 4, RMSE: 151.8566
+Kernel: rbf, C: 1, Gamma: 0.001, Epsilon: 0.05, RMSE: 729.2687
+Kernel: linear, C: 1, Gamma: 0.001, Epsilon: 0.05, RMSE: 355.2823
+Kernel: poly, C: 1, Gamma: 0.001, Epsilon: 0.05, Degree: 2, RMSE: 739.5530
+Kernel: poly, C: 1, Gamma: 0.001, Epsilon: 0.05, Degree: 3, RMSE: 739.5462
+Kernel: poly, C: 1, Gamma: 0.001, Epsilon: 0.05, Degree: 4, RMSE: 739.5462
+Kernel: rbf, C: 1, Gamma: 0.001, Epsilon: 0.1, RMSE: 1471.0814
+Kernel: linear, C: 1, Gamma: 0.001, Epsilon: 0.1, RMSE: 952.7647
+Kernel: poly, C: 1, Gamma: 0.001, Epsilon: 0.1, Degree: 2, RMSE: 1474.8279
+Kernel: poly, C: 1, Gamma: 0.001, Epsilon: 0.1, Degree: 3, RMSE: 1474.8652
+Kernel: poly, C: 1, Gamma: 0.001, Epsilon: 0.1, Degree: 4, RMSE: 1474.8652
+Kernel: rbf, C: 1, Gamma: 0.001, Epsilon: 0.2, RMSE: 2940.5603
+Kernel: linear, C: 1, Gamma: 0.001, Epsilon: 0.2, RMSE: 2710.4874
+Kernel: poly, C: 1, Gamma: 0.001, Epsilon: 0.2, Degree: 2, RMSE: 2945.1236
+Kernel: poly, C: 1, Gamma: 0.001, Epsilon: 0.2, Degree: 3, RMSE: 2945.1246
+Kernel: poly, C: 1, Gamma: 0.001, Epsilon: 0.2, Degree: 4, RMSE: 2944.6246
+Kernel: rbf, C: 1, Gamma: 0.001, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: linear, C: 1, Gamma: 0.001, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: poly, C: 1, Gamma: 0.001, Epsilon: 0.5, Degree: 2, RMSE: 7351.0002
+Kernel: poly, C: 1, Gamma: 0.001, Epsilon: 0.5, Degree: 3, RMSE: 7351.0002
+Kernel: poly, C: 1, Gamma: 0.001, Epsilon: 0.5, Degree: 4, RMSE: 7351.0002
+Kernel: rbf, C: 1, Gamma: 0.01, Epsilon: 0.01, RMSE: 104.6172
+Kernel: linear, C: 1, Gamma: 0.01, Epsilon: 0.01, RMSE: 32.0941
+Kernel: poly, C: 1, Gamma: 0.01, Epsilon: 0.01, Degree: 2, RMSE: 151.9123
+Kernel: poly, C: 1, Gamma: 0.01, Epsilon: 0.01, Degree: 3, RMSE: 152.1312
+Kernel: poly, C: 1, Gamma: 0.01, Epsilon: 0.01, Degree: 4, RMSE: 151.8567
+Kernel: rbf, C: 1, Gamma: 0.01, Epsilon: 0.05, RMSE: 646.1042
+Kernel: linear, C: 1, Gamma: 0.01, Epsilon: 0.05, RMSE: 355.2823
+Kernel: poly, C: 1, Gamma: 0.01, Epsilon: 0.05, Degree: 2, RMSE: 739.7559
+Kernel: poly, C: 1, Gamma: 0.01, Epsilon: 0.05, Degree: 3, RMSE: 739.5531
+Kernel: poly, C: 1, Gamma: 0.01, Epsilon: 0.05, Degree: 4, RMSE: 739.5463
+Kernel: rbf, C: 1, Gamma: 0.01, Epsilon: 0.1, RMSE: 1352.4154
+Kernel: linear, C: 1, Gamma: 0.01, Epsilon: 0.1, RMSE: 952.7647
+Kernel: poly, C: 1, Gamma: 0.01, Epsilon: 0.1, Degree: 2, RMSE: 1474.3311
+Kernel: poly, C: 1, Gamma: 0.01, Epsilon: 0.1, Degree: 3, RMSE: 1474.8277
+Kernel: poly, C: 1, Gamma: 0.01, Epsilon: 0.1, Degree: 4, RMSE: 1474.8649
+Kernel: rbf, C: 1, Gamma: 0.01, Epsilon: 0.2, RMSE: 2895.1320
+Kernel: linear, C: 1, Gamma: 0.01, Epsilon: 0.2, RMSE: 2710.4874
+Kernel: poly, C: 1, Gamma: 0.01, Epsilon: 0.2, Degree: 2, RMSE: 2945.0206
+Kernel: poly, C: 1, Gamma: 0.01, Epsilon: 0.2, Degree: 3, RMSE: 2945.1231
+Kernel: poly, C: 1, Gamma: 0.01, Epsilon: 0.2, Degree: 4, RMSE: 2944.6246
+Kernel: rbf, C: 1, Gamma: 0.01, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: linear, C: 1, Gamma: 0.01, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: poly, C: 1, Gamma: 0.01, Epsilon: 0.5, Degree: 2, RMSE: 7351.0002
+Kernel: poly, C: 1, Gamma: 0.01, Epsilon: 0.5, Degree: 3, RMSE: 7351.0002
+Kernel: poly, C: 1, Gamma: 0.01, Epsilon: 0.5, Degree: 4, RMSE: 7351.0002
+Kernel: rbf, C: 1, Gamma: 0.1, Epsilon: 0.01, RMSE: 101.9841
+Kernel: linear, C: 1, Gamma: 0.1, Epsilon: 0.01, RMSE: 32.0941
+Kernel: poly, C: 1, Gamma: 0.1, Epsilon: 0.01, Degree: 2, RMSE: 152.1683
+Kernel: poly, C: 1, Gamma: 0.1, Epsilon: 0.01, Degree: 3, RMSE: 152.6643
+Kernel: poly, C: 1, Gamma: 0.1, Epsilon: 0.01, Degree: 4, RMSE: 151.8529
+Kernel: rbf, C: 1, Gamma: 0.1, Epsilon: 0.05, RMSE: 676.9990
+Kernel: linear, C: 1, Gamma: 0.1, Epsilon: 0.05, RMSE: 355.2823
+Kernel: poly, C: 1, Gamma: 0.1, Epsilon: 0.05, Degree: 2, RMSE: 735.1540
+Kernel: poly, C: 1, Gamma: 0.1, Epsilon: 0.05, Degree: 3, RMSE: 741.3331
+Kernel: poly, C: 1, Gamma: 0.1, Epsilon: 0.05, Degree: 4, RMSE: 739.7506
+Kernel: rbf, C: 1, Gamma: 0.1, Epsilon: 0.1, RMSE: 1444.3635
+Kernel: linear, C: 1, Gamma: 0.1, Epsilon: 0.1, RMSE: 952.7647
+Kernel: poly, C: 1, Gamma: 0.1, Epsilon: 0.1, Degree: 2, RMSE: 1474.5400
+Kernel: poly, C: 1, Gamma: 0.1, Epsilon: 0.1, Degree: 3, RMSE: 1473.4012
+Kernel: poly, C: 1, Gamma: 0.1, Epsilon: 0.1, Degree: 4, RMSE: 1474.2725
+Kernel: rbf, C: 1, Gamma: 0.1, Epsilon: 0.2, RMSE: 2929.6892
+Kernel: linear, C: 1, Gamma: 0.1, Epsilon: 0.2, RMSE: 2710.4874
+Kernel: poly, C: 1, Gamma: 0.1, Epsilon: 0.2, Degree: 2, RMSE: 2944.3230
+Kernel: poly, C: 1, Gamma: 0.1, Epsilon: 0.2, Degree: 3, RMSE: 2943.2568
+Kernel: poly, C: 1, Gamma: 0.1, Epsilon: 0.2, Degree: 4, RMSE: 2942.4223
+Kernel: rbf, C: 1, Gamma: 0.1, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: linear, C: 1, Gamma: 0.1, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: poly, C: 1, Gamma: 0.1, Epsilon: 0.5, Degree: 2, RMSE: 7351.0002
+Kernel: poly, C: 1, Gamma: 0.1, Epsilon: 0.5, Degree: 3, RMSE: 7351.0002
+Kernel: poly, C: 1, Gamma: 0.1, Epsilon: 0.5, Degree: 4, RMSE: 7351.0002
+Kernel: rbf, C: 1, Gamma: 0.5, Epsilon: 0.01, RMSE: 125.6993
+Kernel: linear, C: 1, Gamma: 0.5, Epsilon: 0.01, RMSE: 32.0941
+Kernel: poly, C: 1, Gamma: 0.5, Epsilon: 0.01, Degree: 2, RMSE: 138.1139
+Kernel: poly, C: 1, Gamma: 0.5, Epsilon: 0.01, Degree: 3, RMSE: 139.8085
+Kernel: poly, C: 1, Gamma: 0.5, Epsilon: 0.01, Degree: 4, RMSE: 141.2754
+Kernel: rbf, C: 1, Gamma: 0.5, Epsilon: 0.05, RMSE: 725.5649
+Kernel: linear, C: 1, Gamma: 0.5, Epsilon: 0.05, RMSE: 355.2823
+Kernel: poly, C: 1, Gamma: 0.5, Epsilon: 0.05, Degree: 2, RMSE: 693.3686
+Kernel: poly, C: 1, Gamma: 0.5, Epsilon: 0.05, Degree: 3, RMSE: 717.3163
+Kernel: poly, C: 1, Gamma: 0.5, Epsilon: 0.05, Degree: 4, RMSE: 728.2912
+Kernel: rbf, C: 1, Gamma: 0.5, Epsilon: 0.1, RMSE: 1465.4769
+Kernel: linear, C: 1, Gamma: 0.5, Epsilon: 0.1, RMSE: 952.7647
+Kernel: poly, C: 1, Gamma: 0.5, Epsilon: 0.1, Degree: 2, RMSE: 1322.6700
+Kernel: poly, C: 1, Gamma: 0.5, Epsilon: 0.1, Degree: 3, RMSE: 1367.8780
+Kernel: poly, C: 1, Gamma: 0.5, Epsilon: 0.1, Degree: 4, RMSE: 1453.7645
+Kernel: rbf, C: 1, Gamma: 0.5, Epsilon: 0.2, RMSE: 2937.1582
+Kernel: linear, C: 1, Gamma: 0.5, Epsilon: 0.2, RMSE: 2710.4874
+Kernel: poly, C: 1, Gamma: 0.5, Epsilon: 0.2, Degree: 2, RMSE: 2925.7194
+Kernel: poly, C: 1, Gamma: 0.5, Epsilon: 0.2, Degree: 3, RMSE: 2942.2985
+Kernel: poly, C: 1, Gamma: 0.5, Epsilon: 0.2, Degree: 4, RMSE: 2941.6392
+Kernel: rbf, C: 1, Gamma: 0.5, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: linear, C: 1, Gamma: 0.5, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: poly, C: 1, Gamma: 0.5, Epsilon: 0.5, Degree: 2, RMSE: 7351.0002
+Kernel: poly, C: 1, Gamma: 0.5, Epsilon: 0.5, Degree: 3, RMSE: 7351.0002
+Kernel: poly, C: 1, Gamma: 0.5, Epsilon: 0.5, Degree: 4, RMSE: 7351.0002
+Kernel: rbf, C: 1, Gamma: 1, Epsilon: 0.01, RMSE: 132.9291
+Kernel: linear, C: 1, Gamma: 1, Epsilon: 0.01, RMSE: 32.0941
+Kernel: poly, C: 1, Gamma: 1, Epsilon: 0.01, Degree: 2, RMSE: 133.0966
+Kernel: poly, C: 1, Gamma: 1, Epsilon: 0.01, Degree: 3, RMSE: 132.7541
+Kernel: poly, C: 1, Gamma: 1, Epsilon: 0.01, Degree: 4, RMSE: 130.9722
+Kernel: rbf, C: 1, Gamma: 1, Epsilon: 0.05, RMSE: 729.2982
+Kernel: linear, C: 1, Gamma: 1, Epsilon: 0.05, RMSE: 355.2823
+Kernel: poly, C: 1, Gamma: 1, Epsilon: 0.05, Degree: 2, RMSE: 674.7521
+Kernel: poly, C: 1, Gamma: 1, Epsilon: 0.05, Degree: 3, RMSE: 688.6466
+Kernel: poly, C: 1, Gamma: 1, Epsilon: 0.05, Degree: 4, RMSE: 698.8522
+Kernel: rbf, C: 1, Gamma: 1, Epsilon: 0.1, RMSE: 1467.1906
+Kernel: linear, C: 1, Gamma: 1, Epsilon: 0.1, RMSE: 952.7647
+Kernel: poly, C: 1, Gamma: 1, Epsilon: 0.1, Degree: 2, RMSE: 825.0610
+Kernel: poly, C: 1, Gamma: 1, Epsilon: 0.1, Degree: 3, RMSE: 1350.1852
+Kernel: poly, C: 1, Gamma: 1, Epsilon: 0.1, Degree: 4, RMSE: 1430.3599
+Kernel: rbf, C: 1, Gamma: 1, Epsilon: 0.2, RMSE: 2938.7552
+Kernel: linear, C: 1, Gamma: 1, Epsilon: 0.2, RMSE: 2710.4874
+Kernel: poly, C: 1, Gamma: 1, Epsilon: 0.2, Degree: 2, RMSE: 2917.0802
+Kernel: poly, C: 1, Gamma: 1, Epsilon: 0.2, Degree: 3, RMSE: 2942.2985
+Kernel: poly, C: 1, Gamma: 1, Epsilon: 0.2, Degree: 4, RMSE: 2941.6392
+Kernel: rbf, C: 1, Gamma: 1, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: linear, C: 1, Gamma: 1, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: poly, C: 1, Gamma: 1, Epsilon: 0.5, Degree: 2, RMSE: 7351.0002
+Kernel: poly, C: 1, Gamma: 1, Epsilon: 0.5, Degree: 3, RMSE: 7351.0002
+Kernel: poly, C: 1, Gamma: 1, Epsilon: 0.5, Degree: 4, RMSE: 7351.0002
+Kernel: rbf, C: 10, Gamma: 0.001, Epsilon: 0.01, RMSE: 101.4353
+Kernel: linear, C: 10, Gamma: 0.001, Epsilon: 0.01, RMSE: 25.9878
+Kernel: poly, C: 10, Gamma: 0.001, Epsilon: 0.01, Degree: 2, RMSE: 151.8569
+Kernel: poly, C: 10, Gamma: 0.001, Epsilon: 0.01, Degree: 3, RMSE: 151.8567
+Kernel: poly, C: 10, Gamma: 0.001, Epsilon: 0.01, Degree: 4, RMSE: 151.8566
+Kernel: rbf, C: 10, Gamma: 0.001, Epsilon: 0.05, RMSE: 627.4018
+Kernel: linear, C: 10, Gamma: 0.001, Epsilon: 0.05, RMSE: 268.8332
+Kernel: poly, C: 10, Gamma: 0.001, Epsilon: 0.05, Degree: 2, RMSE: 739.7822
+Kernel: poly, C: 10, Gamma: 0.001, Epsilon: 0.05, Degree: 3, RMSE: 739.5463
+Kernel: poly, C: 10, Gamma: 0.001, Epsilon: 0.05, Degree: 4, RMSE: 739.5462
+Kernel: rbf, C: 10, Gamma: 0.001, Epsilon: 0.1, RMSE: 1331.1798
+Kernel: linear, C: 10, Gamma: 0.001, Epsilon: 0.1, RMSE: 474.2048
+Kernel: poly, C: 10, Gamma: 0.001, Epsilon: 0.1, Degree: 2, RMSE: 1474.4920
+Kernel: poly, C: 10, Gamma: 0.001, Epsilon: 0.1, Degree: 3, RMSE: 1474.8649
+Kernel: poly, C: 10, Gamma: 0.001, Epsilon: 0.1, Degree: 4, RMSE: 1474.8652
+Kernel: rbf, C: 10, Gamma: 0.001, Epsilon: 0.2, RMSE: 2875.3609
+Kernel: linear, C: 10, Gamma: 0.001, Epsilon: 0.2, RMSE: 2643.1537
+Kernel: poly, C: 10, Gamma: 0.001, Epsilon: 0.2, Degree: 2, RMSE: 2945.1142
+Kernel: poly, C: 10, Gamma: 0.001, Epsilon: 0.2, Degree: 3, RMSE: 2945.1246
+Kernel: poly, C: 10, Gamma: 0.001, Epsilon: 0.2, Degree: 4, RMSE: 2944.6246
+Kernel: rbf, C: 10, Gamma: 0.001, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: linear, C: 10, Gamma: 0.001, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: poly, C: 10, Gamma: 0.001, Epsilon: 0.5, Degree: 2, RMSE: 7351.0002
+Kernel: poly, C: 10, Gamma: 0.001, Epsilon: 0.5, Degree: 3, RMSE: 7351.0002
+Kernel: poly, C: 10, Gamma: 0.001, Epsilon: 0.5, Degree: 4, RMSE: 7351.0002
+Kernel: rbf, C: 10, Gamma: 0.01, Epsilon: 0.01, RMSE: 54.2759
+Kernel: linear, C: 10, Gamma: 0.01, Epsilon: 0.01, RMSE: 25.9878
+Kernel: poly, C: 10, Gamma: 0.01, Epsilon: 0.01, Degree: 2, RMSE: 152.5565
+Kernel: poly, C: 10, Gamma: 0.01, Epsilon: 0.01, Degree: 3, RMSE: 151.8557
+Kernel: poly, C: 10, Gamma: 0.01, Epsilon: 0.01, Degree: 4, RMSE: 151.8578
+Kernel: rbf, C: 10, Gamma: 0.01, Epsilon: 0.05, RMSE: 440.3992
+Kernel: linear, C: 10, Gamma: 0.01, Epsilon: 0.05, RMSE: 268.8332
+Kernel: poly, C: 10, Gamma: 0.01, Epsilon: 0.05, Degree: 2, RMSE: 741.7689
+Kernel: poly, C: 10, Gamma: 0.01, Epsilon: 0.05, Degree: 3, RMSE: 739.7777
+Kernel: poly, C: 10, Gamma: 0.01, Epsilon: 0.05, Degree: 4, RMSE: 739.5469
+Kernel: rbf, C: 10, Gamma: 0.01, Epsilon: 0.1, RMSE: 1228.8777
+Kernel: linear, C: 10, Gamma: 0.01, Epsilon: 0.1, RMSE: 474.2048
+Kernel: poly, C: 10, Gamma: 0.01, Epsilon: 0.1, Degree: 2, RMSE: 1475.5449
+Kernel: poly, C: 10, Gamma: 0.01, Epsilon: 0.1, Degree: 3, RMSE: 1474.4901
+Kernel: poly, C: 10, Gamma: 0.01, Epsilon: 0.1, Degree: 4, RMSE: 1474.8615
+Kernel: rbf, C: 10, Gamma: 0.01, Epsilon: 0.2, RMSE: 2808.0493
+Kernel: linear, C: 10, Gamma: 0.01, Epsilon: 0.2, RMSE: 2643.1537
+Kernel: poly, C: 10, Gamma: 0.01, Epsilon: 0.2, Degree: 2, RMSE: 2944.1274
+Kernel: poly, C: 10, Gamma: 0.01, Epsilon: 0.2, Degree: 3, RMSE: 2945.1095
+Kernel: poly, C: 10, Gamma: 0.01, Epsilon: 0.2, Degree: 4, RMSE: 2944.6244
+Kernel: rbf, C: 10, Gamma: 0.01, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: linear, C: 10, Gamma: 0.01, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: poly, C: 10, Gamma: 0.01, Epsilon: 0.5, Degree: 2, RMSE: 7351.0002
+Kernel: poly, C: 10, Gamma: 0.01, Epsilon: 0.5, Degree: 3, RMSE: 7351.0002
+Kernel: poly, C: 10, Gamma: 0.01, Epsilon: 0.5, Degree: 4, RMSE: 7351.0002
+Kernel: rbf, C: 10, Gamma: 0.1, Epsilon: 0.01, RMSE: 96.2840
+Kernel: linear, C: 10, Gamma: 0.1, Epsilon: 0.01, RMSE: 25.9878
+Kernel: poly, C: 10, Gamma: 0.1, Epsilon: 0.01, Degree: 2, RMSE: 141.2215
+Kernel: poly, C: 10, Gamma: 0.1, Epsilon: 0.01, Degree: 3, RMSE: 146.4199
+Kernel: poly, C: 10, Gamma: 0.1, Epsilon: 0.01, Degree: 4, RMSE: 148.5281
+Kernel: rbf, C: 10, Gamma: 0.1, Epsilon: 0.05, RMSE: 569.9150
+Kernel: linear, C: 10, Gamma: 0.1, Epsilon: 0.05, RMSE: 268.8332
+Kernel: poly, C: 10, Gamma: 0.1, Epsilon: 0.05, Degree: 2, RMSE: 720.0869
+Kernel: poly, C: 10, Gamma: 0.1, Epsilon: 0.05, Degree: 3, RMSE: 739.0988
+Kernel: poly, C: 10, Gamma: 0.1, Epsilon: 0.05, Degree: 4, RMSE: 742.5369
+Kernel: rbf, C: 10, Gamma: 0.1, Epsilon: 0.1, RMSE: 1149.4042
+Kernel: linear, C: 10, Gamma: 0.1, Epsilon: 0.1, RMSE: 474.2048
+Kernel: poly, C: 10, Gamma: 0.1, Epsilon: 0.1, Degree: 2, RMSE: 1426.6502
+Kernel: poly, C: 10, Gamma: 0.1, Epsilon: 0.1, Degree: 3, RMSE: 1471.7042
+Kernel: poly, C: 10, Gamma: 0.1, Epsilon: 0.1, Degree: 4, RMSE: 1469.2081
+Kernel: rbf, C: 10, Gamma: 0.1, Epsilon: 0.2, RMSE: 2910.2229
+Kernel: linear, C: 10, Gamma: 0.1, Epsilon: 0.2, RMSE: 2643.1537
+Kernel: poly, C: 10, Gamma: 0.1, Epsilon: 0.2, Degree: 2, RMSE: 2933.4439
+Kernel: poly, C: 10, Gamma: 0.1, Epsilon: 0.2, Degree: 3, RMSE: 2945.0448
+Kernel: poly, C: 10, Gamma: 0.1, Epsilon: 0.2, Degree: 4, RMSE: 2943.1185
+Kernel: rbf, C: 10, Gamma: 0.1, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: linear, C: 10, Gamma: 0.1, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: poly, C: 10, Gamma: 0.1, Epsilon: 0.5, Degree: 2, RMSE: 7351.0002
+Kernel: poly, C: 10, Gamma: 0.1, Epsilon: 0.5, Degree: 3, RMSE: 7351.0002
+Kernel: poly, C: 10, Gamma: 0.1, Epsilon: 0.5, Degree: 4, RMSE: 7351.0002
+Kernel: rbf, C: 10, Gamma: 0.5, Epsilon: 0.01, RMSE: 117.0047
+Kernel: linear, C: 10, Gamma: 0.5, Epsilon: 0.01, RMSE: 25.9878
+Kernel: poly, C: 10, Gamma: 0.5, Epsilon: 0.01, Degree: 2, RMSE: 126.8709
+Kernel: poly, C: 10, Gamma: 0.5, Epsilon: 0.01, Degree: 3, RMSE: 130.5824
+Kernel: poly, C: 10, Gamma: 0.5, Epsilon: 0.01, Degree: 4, RMSE: 134.7893
+Kernel: rbf, C: 10, Gamma: 0.5, Epsilon: 0.05, RMSE: 723.6260
+Kernel: linear, C: 10, Gamma: 0.5, Epsilon: 0.05, RMSE: 268.8332
+Kernel: poly, C: 10, Gamma: 0.5, Epsilon: 0.05, Degree: 2, RMSE: 646.2765
+Kernel: poly, C: 10, Gamma: 0.5, Epsilon: 0.05, Degree: 3, RMSE: 684.4859
+Kernel: poly, C: 10, Gamma: 0.5, Epsilon: 0.05, Degree: 4, RMSE: 695.9540
+Kernel: rbf, C: 10, Gamma: 0.5, Epsilon: 0.1, RMSE: 1463.8763
+Kernel: linear, C: 10, Gamma: 0.5, Epsilon: 0.1, RMSE: 474.2048
+Kernel: poly, C: 10, Gamma: 0.5, Epsilon: 0.1, Degree: 2, RMSE: 875.2179
+Kernel: poly, C: 10, Gamma: 0.5, Epsilon: 0.1, Degree: 3, RMSE: 1385.2565
+Kernel: poly, C: 10, Gamma: 0.5, Epsilon: 0.1, Degree: 4, RMSE: 1433.1566
+Kernel: rbf, C: 10, Gamma: 0.5, Epsilon: 0.2, RMSE: 2935.6814
+Kernel: linear, C: 10, Gamma: 0.5, Epsilon: 0.2, RMSE: 2643.1537
+Kernel: poly, C: 10, Gamma: 0.5, Epsilon: 0.2, Degree: 2, RMSE: 2917.0802
+Kernel: poly, C: 10, Gamma: 0.5, Epsilon: 0.2, Degree: 3, RMSE: 2942.2985
+Kernel: poly, C: 10, Gamma: 0.5, Epsilon: 0.2, Degree: 4, RMSE: 2941.6392
+Kernel: rbf, C: 10, Gamma: 0.5, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: linear, C: 10, Gamma: 0.5, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: poly, C: 10, Gamma: 0.5, Epsilon: 0.5, Degree: 2, RMSE: 7351.0002
+Kernel: poly, C: 10, Gamma: 0.5, Epsilon: 0.5, Degree: 3, RMSE: 7351.0002
+Kernel: poly, C: 10, Gamma: 0.5, Epsilon: 0.5, Degree: 4, RMSE: 7351.0002
+Kernel: rbf, C: 10, Gamma: 1, Epsilon: 0.01, RMSE: 127.3845
+Kernel: linear, C: 10, Gamma: 1, Epsilon: 0.01, RMSE: 25.9878
+Kernel: poly, C: 10, Gamma: 1, Epsilon: 0.01, Degree: 2, RMSE: 119.8780
+Kernel: poly, C: 10, Gamma: 1, Epsilon: 0.01, Degree: 3, RMSE: 114.8167
+Kernel: poly, C: 10, Gamma: 1, Epsilon: 0.01, Degree: 4, RMSE: 113.0318
+Kernel: rbf, C: 10, Gamma: 1, Epsilon: 0.05, RMSE: 727.8539
+Kernel: linear, C: 10, Gamma: 1, Epsilon: 0.05, RMSE: 268.8332
+Kernel: poly, C: 10, Gamma: 1, Epsilon: 0.05, Degree: 2, RMSE: 632.9919
+Kernel: poly, C: 10, Gamma: 1, Epsilon: 0.05, Degree: 3, RMSE: 678.9434
+Kernel: poly, C: 10, Gamma: 1, Epsilon: 0.05, Degree: 4, RMSE: 658.8459
+Kernel: rbf, C: 10, Gamma: 1, Epsilon: 0.1, RMSE: 1466.8713
+Kernel: linear, C: 10, Gamma: 1, Epsilon: 0.1, RMSE: 474.2048
+Kernel: poly, C: 10, Gamma: 1, Epsilon: 0.1, Degree: 2, RMSE: 366.5004
+Kernel: poly, C: 10, Gamma: 1, Epsilon: 0.1, Degree: 3, RMSE: 990.9842
+Kernel: poly, C: 10, Gamma: 1, Epsilon: 0.1, Degree: 4, RMSE: 1431.4442
+Kernel: rbf, C: 10, Gamma: 1, Epsilon: 0.2, RMSE: 2938.7552
+Kernel: linear, C: 10, Gamma: 1, Epsilon: 0.2, RMSE: 2643.1537
+Kernel: poly, C: 10, Gamma: 1, Epsilon: 0.2, Degree: 2, RMSE: 2917.0802
+Kernel: poly, C: 10, Gamma: 1, Epsilon: 0.2, Degree: 3, RMSE: 2942.2985
+Kernel: poly, C: 10, Gamma: 1, Epsilon: 0.2, Degree: 4, RMSE: 2941.6392
+Kernel: rbf, C: 10, Gamma: 1, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: linear, C: 10, Gamma: 1, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: poly, C: 10, Gamma: 1, Epsilon: 0.5, Degree: 2, RMSE: 7351.0002
+Kernel: poly, C: 10, Gamma: 1, Epsilon: 0.5, Degree: 3, RMSE: 7351.0002
+Kernel: poly, C: 10, Gamma: 1, Epsilon: 0.5, Degree: 4, RMSE: 7351.0002
+Kernel: rbf, C: 50, Gamma: 0.001, Epsilon: 0.01, RMSE: 60.0291
+Kernel: linear, C: 50, Gamma: 0.001, Epsilon: 0.01, RMSE: 26.8704
+Kernel: poly, C: 50, Gamma: 0.001, Epsilon: 0.01, Degree: 2, RMSE: 152.0595
+Kernel: poly, C: 50, Gamma: 0.001, Epsilon: 0.01, Degree: 3, RMSE: 151.8572
+Kernel: poly, C: 50, Gamma: 0.001, Epsilon: 0.01, Degree: 4, RMSE: 151.8566
+Kernel: rbf, C: 50, Gamma: 0.001, Epsilon: 0.05, RMSE: 431.1216
+Kernel: linear, C: 50, Gamma: 0.001, Epsilon: 0.05, RMSE: 277.3650
+Kernel: poly, C: 50, Gamma: 0.001, Epsilon: 0.05, Degree: 2, RMSE: 739.4512
+Kernel: poly, C: 50, Gamma: 0.001, Epsilon: 0.05, Degree: 3, RMSE: 739.5466
+Kernel: poly, C: 50, Gamma: 0.001, Epsilon: 0.05, Degree: 4, RMSE: 739.5462
+Kernel: rbf, C: 50, Gamma: 0.001, Epsilon: 0.1, RMSE: 1148.7486
+Kernel: linear, C: 50, Gamma: 0.001, Epsilon: 0.1, RMSE: 638.6504
+Kernel: poly, C: 50, Gamma: 0.001, Epsilon: 0.1, Degree: 2, RMSE: 1475.0981
+Kernel: poly, C: 50, Gamma: 0.001, Epsilon: 0.1, Degree: 3, RMSE: 1474.8634
+Kernel: poly, C: 50, Gamma: 0.001, Epsilon: 0.1, Degree: 4, RMSE: 1474.8652
+Kernel: rbf, C: 50, Gamma: 0.001, Epsilon: 0.2, RMSE: 2751.8341
+Kernel: linear, C: 50, Gamma: 0.001, Epsilon: 0.2, RMSE: 2643.1537
+Kernel: poly, C: 50, Gamma: 0.001, Epsilon: 0.2, Degree: 2, RMSE: 2945.0726
+Kernel: poly, C: 50, Gamma: 0.001, Epsilon: 0.2, Degree: 3, RMSE: 2945.1245
+Kernel: poly, C: 50, Gamma: 0.001, Epsilon: 0.2, Degree: 4, RMSE: 2944.6246
+Kernel: rbf, C: 50, Gamma: 0.001, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: linear, C: 50, Gamma: 0.001, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: poly, C: 50, Gamma: 0.001, Epsilon: 0.5, Degree: 2, RMSE: 7351.0002
+Kernel: poly, C: 50, Gamma: 0.001, Epsilon: 0.5, Degree: 3, RMSE: 7351.0002
+Kernel: poly, C: 50, Gamma: 0.001, Epsilon: 0.5, Degree: 4, RMSE: 7351.0002
+Kernel: rbf, C: 50, Gamma: 0.01, Epsilon: 0.01, RMSE: 41.1143
+Kernel: linear, C: 50, Gamma: 0.01, Epsilon: 0.01, RMSE: 26.8704
+Kernel: poly, C: 50, Gamma: 0.01, Epsilon: 0.01, Degree: 2, RMSE: 151.5197
+Kernel: poly, C: 50, Gamma: 0.01, Epsilon: 0.01, Degree: 3, RMSE: 152.0526
+Kernel: poly, C: 50, Gamma: 0.01, Epsilon: 0.01, Degree: 4, RMSE: 151.8627
+Kernel: rbf, C: 50, Gamma: 0.01, Epsilon: 0.05, RMSE: 318.7329
+Kernel: linear, C: 50, Gamma: 0.01, Epsilon: 0.05, RMSE: 277.3650
+Kernel: poly, C: 50, Gamma: 0.01, Epsilon: 0.05, Degree: 2, RMSE: 738.1273
+Kernel: poly, C: 50, Gamma: 0.01, Epsilon: 0.05, Degree: 3, RMSE: 739.4309
+Kernel: poly, C: 50, Gamma: 0.01, Epsilon: 0.05, Degree: 4, RMSE: 739.5496
+Kernel: rbf, C: 50, Gamma: 0.01, Epsilon: 0.1, RMSE: 1041.4709
+Kernel: linear, C: 50, Gamma: 0.01, Epsilon: 0.1, RMSE: 638.6504
+Kernel: poly, C: 50, Gamma: 0.01, Epsilon: 0.1, Degree: 2, RMSE: 1474.6203
+Kernel: poly, C: 50, Gamma: 0.01, Epsilon: 0.1, Degree: 3, RMSE: 1475.0838
+Kernel: poly, C: 50, Gamma: 0.01, Epsilon: 0.1, Degree: 4, RMSE: 1474.8464
+Kernel: rbf, C: 50, Gamma: 0.01, Epsilon: 0.2, RMSE: 2751.9042
+Kernel: linear, C: 50, Gamma: 0.01, Epsilon: 0.2, RMSE: 2643.1537
+Kernel: poly, C: 50, Gamma: 0.01, Epsilon: 0.2, Degree: 2, RMSE: 2942.1700
+Kernel: poly, C: 50, Gamma: 0.01, Epsilon: 0.2, Degree: 3, RMSE: 2944.5607
+Kernel: poly, C: 50, Gamma: 0.01, Epsilon: 0.2, Degree: 4, RMSE: 2944.6238
+Kernel: rbf, C: 50, Gamma: 0.01, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: linear, C: 50, Gamma: 0.01, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: poly, C: 50, Gamma: 0.01, Epsilon: 0.5, Degree: 2, RMSE: 7351.0002
+Kernel: poly, C: 50, Gamma: 0.01, Epsilon: 0.5, Degree: 3, RMSE: 7351.0002
+Kernel: poly, C: 50, Gamma: 0.01, Epsilon: 0.5, Degree: 4, RMSE: 7351.0002
+Kernel: rbf, C: 50, Gamma: 0.1, Epsilon: 0.01, RMSE: 95.0474
+Kernel: linear, C: 50, Gamma: 0.1, Epsilon: 0.01, RMSE: 26.8704
+Kernel: poly, C: 50, Gamma: 0.1, Epsilon: 0.01, Degree: 2, RMSE: 134.5440
+Kernel: poly, C: 50, Gamma: 0.1, Epsilon: 0.01, Degree: 3, RMSE: 143.9707
+Kernel: poly, C: 50, Gamma: 0.1, Epsilon: 0.01, Degree: 4, RMSE: 147.8756
+Kernel: rbf, C: 50, Gamma: 0.1, Epsilon: 0.05, RMSE: 648.2144
+Kernel: linear, C: 50, Gamma: 0.1, Epsilon: 0.05, RMSE: 277.3650
+Kernel: poly, C: 50, Gamma: 0.1, Epsilon: 0.05, Degree: 2, RMSE: 689.6130
+Kernel: poly, C: 50, Gamma: 0.1, Epsilon: 0.05, Degree: 3, RMSE: 723.2731
+Kernel: poly, C: 50, Gamma: 0.1, Epsilon: 0.05, Degree: 4, RMSE: 741.8392
+Kernel: rbf, C: 50, Gamma: 0.1, Epsilon: 0.1, RMSE: 943.7393
+Kernel: linear, C: 50, Gamma: 0.1, Epsilon: 0.1, RMSE: 638.6504
+Kernel: poly, C: 50, Gamma: 0.1, Epsilon: 0.1, Degree: 2, RMSE: 1088.0348
+Kernel: poly, C: 50, Gamma: 0.1, Epsilon: 0.1, Degree: 3, RMSE: 1436.5575
+Kernel: poly, C: 50, Gamma: 0.1, Epsilon: 0.1, Degree: 4, RMSE: 1470.6241
+Kernel: rbf, C: 50, Gamma: 0.1, Epsilon: 0.2, RMSE: 2910.2229
+Kernel: linear, C: 50, Gamma: 0.1, Epsilon: 0.2, RMSE: 2643.1537
+Kernel: poly, C: 50, Gamma: 0.1, Epsilon: 0.2, Degree: 2, RMSE: 2923.6186
+Kernel: poly, C: 50, Gamma: 0.1, Epsilon: 0.2, Degree: 3, RMSE: 2942.5316
+Kernel: poly, C: 50, Gamma: 0.1, Epsilon: 0.2, Degree: 4, RMSE: 2939.7985
+Kernel: rbf, C: 50, Gamma: 0.1, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: linear, C: 50, Gamma: 0.1, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: poly, C: 50, Gamma: 0.1, Epsilon: 0.5, Degree: 2, RMSE: 7351.0002
+Kernel: poly, C: 50, Gamma: 0.1, Epsilon: 0.5, Degree: 3, RMSE: 7351.0002
+Kernel: poly, C: 50, Gamma: 0.1, Epsilon: 0.5, Degree: 4, RMSE: 7351.0002
+Kernel: rbf, C: 50, Gamma: 0.5, Epsilon: 0.01, RMSE: 115.6972
+Kernel: linear, C: 50, Gamma: 0.5, Epsilon: 0.01, RMSE: 26.8704
+Kernel: poly, C: 50, Gamma: 0.5, Epsilon: 0.01, Degree: 2, RMSE: 116.6041
+Kernel: poly, C: 50, Gamma: 0.5, Epsilon: 0.01, Degree: 3, RMSE: 118.8038
+Kernel: poly, C: 50, Gamma: 0.5, Epsilon: 0.01, Degree: 4, RMSE: 123.0672
+Kernel: rbf, C: 50, Gamma: 0.5, Epsilon: 0.05, RMSE: 718.8834
+Kernel: linear, C: 50, Gamma: 0.5, Epsilon: 0.05, RMSE: 277.3650
+Kernel: poly, C: 50, Gamma: 0.5, Epsilon: 0.05, Degree: 2, RMSE: 634.7435
+Kernel: poly, C: 50, Gamma: 0.5, Epsilon: 0.05, Degree: 3, RMSE: 677.6344
+Kernel: poly, C: 50, Gamma: 0.5, Epsilon: 0.05, Degree: 4, RMSE: 683.7590
+Kernel: rbf, C: 50, Gamma: 0.5, Epsilon: 0.1, RMSE: 1463.8763
+Kernel: linear, C: 50, Gamma: 0.5, Epsilon: 0.1, RMSE: 638.6504
+Kernel: poly, C: 50, Gamma: 0.5, Epsilon: 0.1, Degree: 2, RMSE: 336.5682
+Kernel: poly, C: 50, Gamma: 0.5, Epsilon: 0.1, Degree: 3, RMSE: 990.9842
+Kernel: poly, C: 50, Gamma: 0.5, Epsilon: 0.1, Degree: 4, RMSE: 1431.4442
+Kernel: rbf, C: 50, Gamma: 0.5, Epsilon: 0.2, RMSE: 2935.6814
+Kernel: linear, C: 50, Gamma: 0.5, Epsilon: 0.2, RMSE: 2643.1537
+Kernel: poly, C: 50, Gamma: 0.5, Epsilon: 0.2, Degree: 2, RMSE: 2917.0802
+Kernel: poly, C: 50, Gamma: 0.5, Epsilon: 0.2, Degree: 3, RMSE: 2942.2985
+Kernel: poly, C: 50, Gamma: 0.5, Epsilon: 0.2, Degree: 4, RMSE: 2941.6392
+Kernel: rbf, C: 50, Gamma: 0.5, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: linear, C: 50, Gamma: 0.5, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: poly, C: 50, Gamma: 0.5, Epsilon: 0.5, Degree: 2, RMSE: 7351.0002
+Kernel: poly, C: 50, Gamma: 0.5, Epsilon: 0.5, Degree: 3, RMSE: 7351.0002
+Kernel: poly, C: 50, Gamma: 0.5, Epsilon: 0.5, Degree: 4, RMSE: 7351.0002
+Kernel: rbf, C: 50, Gamma: 1, Epsilon: 0.01, RMSE: 125.2458
+Kernel: linear, C: 50, Gamma: 1, Epsilon: 0.01, RMSE: 26.8704
+Kernel: poly, C: 50, Gamma: 1, Epsilon: 0.01, Degree: 2, RMSE: 113.4976
+Kernel: poly, C: 50, Gamma: 1, Epsilon: 0.01, Degree: 3, RMSE: 109.3571
+Kernel: poly, C: 50, Gamma: 1, Epsilon: 0.01, Degree: 4, RMSE: 104.9740
+Kernel: rbf, C: 50, Gamma: 1, Epsilon: 0.05, RMSE: 725.6215
+Kernel: linear, C: 50, Gamma: 1, Epsilon: 0.05, RMSE: 277.3650
+Kernel: poly, C: 50, Gamma: 1, Epsilon: 0.05, Degree: 2, RMSE: 631.0770
+Kernel: poly, C: 50, Gamma: 1, Epsilon: 0.05, Degree: 3, RMSE: 665.7348
+Kernel: poly, C: 50, Gamma: 1, Epsilon: 0.05, Degree: 4, RMSE: 624.3214
+Kernel: rbf, C: 50, Gamma: 1, Epsilon: 0.1, RMSE: 1466.8713
+Kernel: linear, C: 50, Gamma: 1, Epsilon: 0.1, RMSE: 638.6504
+Kernel: poly, C: 50, Gamma: 1, Epsilon: 0.1, Degree: 2, RMSE: 316.2644
+Kernel: poly, C: 50, Gamma: 1, Epsilon: 0.1, Degree: 3, RMSE: 990.9842
+Kernel: poly, C: 50, Gamma: 1, Epsilon: 0.1, Degree: 4, RMSE: 1431.4442
+Kernel: rbf, C: 50, Gamma: 1, Epsilon: 0.2, RMSE: 2938.7552
+Kernel: linear, C: 50, Gamma: 1, Epsilon: 0.2, RMSE: 2643.1537
+Kernel: poly, C: 50, Gamma: 1, Epsilon: 0.2, Degree: 2, RMSE: 2917.0802
+Kernel: poly, C: 50, Gamma: 1, Epsilon: 0.2, Degree: 3, RMSE: 2942.2985
+Kernel: poly, C: 50, Gamma: 1, Epsilon: 0.2, Degree: 4, RMSE: 2941.6392
+Kernel: rbf, C: 50, Gamma: 1, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: linear, C: 50, Gamma: 1, Epsilon: 0.5, RMSE: 7351.0002
+Kernel: poly, C: 50, Gamma: 1, Epsilon: 0.5, Degree: 2, RMSE: 7351.0002
+Kernel: poly, C: 50, Gamma: 1, Epsilon: 0.5, Degree: 3, RMSE: 7351.0002
+Kernel: poly, C: 50, Gamma: 1, Epsilon: 0.5, Degree: 4, RMSE: 7351.0002

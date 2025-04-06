@@ -1,0 +1,16 @@
+Kernel: linear, C: 1, Gamma: 0.001, Epsilon: 0.01, RMSE: 32.0941
+Kernel: linear, C: 1, Gamma: 0.01, Epsilon: 0.01, RMSE: 32.0941
+Kernel: linear, C: 1, Gamma: 0.1, Epsilon: 0.01, RMSE: 32.0941
+Kernel: linear, C: 1, Gamma: 0.5, Epsilon: 0.01, RMSE: 32.0941
+Kernel: linear, C: 1, Gamma: 1, Epsilon: 0.01, RMSE: 32.0941
+Kernel: linear, C: 10, Gamma: 0.001, Epsilon: 0.01, RMSE: 25.9878
+Kernel: linear, C: 10, Gamma: 0.01, Epsilon: 0.01, RMSE: 25.9878
+Kernel: linear, C: 10, Gamma: 0.1, Epsilon: 0.01, RMSE: 25.9878
+Kernel: linear, C: 10, Gamma: 0.5, Epsilon: 0.01, RMSE: 25.9878
+Kernel: linear, C: 10, Gamma: 1, Epsilon: 0.01, RMSE: 25.9878
+Kernel: linear, C: 50, Gamma: 0.001, Epsilon: 0.01, RMSE: 26.8704
+Kernel: rbf, C: 50, Gamma: 0.01, Epsilon: 0.01, RMSE: 41.1143
+Kernel: linear, C: 50, Gamma: 0.01, Epsilon: 0.01, RMSE: 26.8704
+Kernel: linear, C: 50, Gamma: 0.1, Epsilon: 0.01, RMSE: 26.8704
+Kernel: linear, C: 50, Gamma: 0.5, Epsilon: 0.01, RMSE: 26.8704
+Kernel: linear, C: 50, Gamma: 1, Epsilon: 0.01, RMSE: 26.8704
